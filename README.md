@@ -1,2 +1,2 @@
 # niholTelegramBot
-Nihol Test Telegram bot
+Nihol Telegram bot на JAVA

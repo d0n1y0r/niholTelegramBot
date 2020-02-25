@@ -1,2 +1,2 @@
 # niholTelegramBot
-Nihol Telegram bot на JAVA
+Nihol Telegram bot РЅР° JAVA
